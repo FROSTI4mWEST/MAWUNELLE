@@ -1,0 +1,7 @@
+{
+  "name": "MAWUNELLE",
+  "description": "A calm, feminine, curated lifestyle store for Ghana - Beautiful things, thoughtfully chosen. Everyday Edit, Glow Ritual, and Monthly Product.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
